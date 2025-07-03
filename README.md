@@ -4,13 +4,20 @@
   <img src="./timeline.jpg" alt="image info">
 </div>
 
-🚩 2017: Recurrent neural networks (RNNs) \cite{rnn}, such as DA-RNN~\cite{da-rnn} and MQRNN~\cite{mqrnn}, emerged as the dominant approach, marking the beginning of rapid advancement of deep learning in TSF.
+🚩 2017: Recurrent neural networks (RNNs) ![RNN](https://img.shields.io/badge/-Irregular-orange), such as DA-RNN~\cite{da-rnn} and MQRNN~\cite{mqrnn}, emerged as the dominant approach, marking the beginning of rapid advancement of deep learning in TSF.
+
 🚩 2018: Data in various fields exhibit both spatial and temporal dependencies, and graph neural networks (GNNs)\cite{gnn} have introduced novel perspectives for spatiotemporal modeling, with STGCN\cite{stgcn} widely adopted as a benchmark. 
+
 🚩 2019: Transformer-based models \cite{transformer}, such as LogTrans~\cite{logtrans} and TFT~\cite{tft}, have gained popularity due to their strength in modeling global dependencies. Concurrently, convolutional neural networks (CNNs) \cite{cnn} (e.g., DeepGLO~\cite{deepglo}, MICN~\cite{micn}) were employed in TSF, leveraging their parallelism, parameter sharing, and local perception capabilities. 
+
 🚩 2020: Multi-layer perceptrons (MLPs), due to their simple architecture and ease of implementation, have been widely applied in TSF. A representative example is N-BEATS~\cite{n-beats}, which inspired a series of follow-up variants such as NBEATSx~\cite{nbeatsx} and N-HiTS~\cite{nhits}.
+
 🚩 2021: Given that time series forecasting can essentially be regarded as a generative task, some generative approaches, such as TimeGrad~\cite{timegrad} and MAF~\cite{maf}, model the underlying data distribution to generate future sequences. 
+
 🚩 2022: The Transformer architecture has undergone continuous development in recent years, giving rise to numerous studies, including FEDformer~\cite{fedformer} and Pyraformer~\cite{pyraformer}. 
+
 🚩 2023: DLinear~\cite{dlinear}, a model based purely on MLPs, argued that Transformers are not necessarily superior in TSF and asserted that linear neural networks might be equally effective. 
+
 🚩 2024: iTransformer~\cite{itransformer} demonstrated the effectiveness of the Transformer architecture through structural optimization, providing a strong rebuttal to DLinear's claims. Furthermore, the rapid proliferation of methods based on large language models (LLMs), such as Time-LLM~\cite{time-llm}, provides further evidence for the feasibility of Transformers in TSF.
 
 <table>
