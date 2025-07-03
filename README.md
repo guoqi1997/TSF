@@ -29,7 +29,7 @@
 🚀 For a deeper dive, please check out our survey paper: **A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis, and Future Directions** 
 
 ## 📑 Table of Contents
-- 🤖[A Survey of Deep Learning for Time Series Forecasting](#a-survey-on-diffusion-policy-for-robotic-manipulation)
+- 🤖[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Papers](#-papers)
     - 📊[Data Representation](#-data-representation)
