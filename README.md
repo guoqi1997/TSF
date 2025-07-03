@@ -50,7 +50,7 @@
 
   - 📜[Citation](#-citation)
 
-##  📖 Papers
+##  📖 Taxonomy
 ### 📊 Data Representation
 
 #### 2D Representations
