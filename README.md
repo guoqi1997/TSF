@@ -1,7 +1,7 @@
 # A Survey on Diffusion Policy for Robotic Manipulation
 
 <div style="text-align: center;">
-  <img src="./timeline.png" alt="image info">
+  <img src="./timeline.jpg" alt="image info">
 </div>
 
 🔥 Since 2022, research on diffusion policies for robotic manipulation has demonstrated consistently superior performance compared to traditional methodologies across diverse tasks. Despite the rapid growth and promising results in this field, there remains a notable absence of comprehensive survey literature that systematically analyzes and synthesizes developments in this evolving research field.
