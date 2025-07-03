@@ -4,7 +4,7 @@
   <img src="./timeline.jpg" alt="image info">
 </div>
 
-🚩 2017: Recurrent neural networks (RNNs) ![RNN](https://img.shields.io/badge/-Irregular-orange), such as DA-RNN~\cite{da-rnn} and MQRNN~\cite{mqrnn}, emerged as the dominant approach, marking the beginning of rapid advancement of deep learning in TSF.
+🚩 2017: Recurrent neural networks (RNNs) [RNN](https://img.shields.io/badge/-Irregular-orange), such as DA-RNN~\cite{da-rnn} and MQRNN~\cite{mqrnn}, emerged as the dominant approach, marking the beginning of rapid advancement of deep learning in TSF.
 
 🚩 2018: Data in various fields exhibit both spatial and temporal dependencies, and graph neural networks (GNNs)\cite{gnn} have introduced novel perspectives for spatiotemporal modeling, with STGCN\cite{stgcn} widely adopted as a benchmark. 
 
