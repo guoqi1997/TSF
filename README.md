@@ -20,17 +20,9 @@
 
 🚩 2024: iTransformer~\cite{itransformer} demonstrated the effectiveness of the Transformer architecture through structural optimization, providing a strong rebuttal to DLinear's claims. Furthermore, the rapid proliferation of methods based on large language models (LLMs), such as Time-LLM~\cite{time-llm}, provides further evidence for the feasibility of Transformers in TSF.
 
-<table>
-  <tr>
-    <td>
-      <img src="./number_of_paper_page.jpg" alt="Diffusion Policy Papers Over Time" />
-    </td>
-    <td>
-      <img src="./MODEL.jpg" alt="Comparing Architectures of Different Diffusion Policy Models." />
-    </td>
-  </tr>
-</table>
-
+<div style="text-align: center;">
+  <img src="./taxonomy.jpg" alt="taxonomy">
+</div>
 
 
 📍 We present **the first comprehensive analysis of diffusion policies for robotic manipulation**. Specifically, we systematically analyze existing methods from three perspectives: data representation, model architecture, and diffusion strategy. For example, from the model architecture perspective, we categorize existing diffusion policy methods into three types: (a) Large Language Model Based Diffusion Policy, (b) Small Size CNN or Transformer Based Diffusion Policy, and (c) VAE / VQ-VAE Based Diffusion Policy.
