@@ -31,7 +31,7 @@
 ## 📑 Table of Contents
 - 🤖[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
-  - 📖[Papers](#-papers)
+  - 📖[Taxonomy](#-taxonomy)
     - 📊[Data Representation](#-data-representation)
       - [2D Representations](#2d-representations)
       - [3D Representations](#3d-representations)
