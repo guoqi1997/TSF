@@ -33,62 +33,62 @@
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
     - 📚[Discriminative Paradigm](#-discriminative-paradigm)
-      - [MLP-based Methods](#mlp-based-methods)
-      - [CNN-based Methods](#cnn-based-methods)
+      - 🌟[MLP-based Methods](#mlp-based-methods)
+      - 🌟[CNN-based Methods](#cnn-based-methods)
         - [CNN](#cnn)
         - [TCN](#tcn)
-      - [RNN-based Methods](#rnn-based-methods)
+      - 🌟[RNN-based Methods](#rnn-based-methods)
         - [RNN](#rnn)
         - [GRU / LSTM](#gru--lstm)
-      - [GNN-based Methods](#gnn-based-methods)
-      - [Transformer-based Methods](#transformer-based-methods)
+      - 🌟[GNN-based Methods](#gnn-based-methods)
+      - 🌟[Transformer-based Methods](#transformer-based-methods)
         - [Transformer](#transformer)
         - [Discriminative LLM](#discriminative-llm)
-      - [Compound Model-based Methods](#compound-model-based-methods)
+      - 🌟[Compound Model-based Methods](#compound-model-based-methods)
         - [CNN + RNN](#cnn--rnn)
         - [CNN + Transormer](#cnn--transformer)
         - [GNN + RNN](#gnn--rnn)
         - [GNN + Transormer](#gnn--transformer)
     - 📚[Generative Paradigm](#-generative-paradigm)
-      - [Generative Model-based Methods](#generative-model-based-methods)
+      - 🌟[Generative Model-based Methods](#generative-model-based-methods)
         - [GAN](#gan)
         - [VAE](#vae)
         - [Flow-based models](#flow-based-models)
         - [Diffusion models](#diffusion-models)
-      - [Generative LLM-based Methods](#generative-llm-based-methods)
+      - 🌟[Generative LLM-based Methods](#generative-llm-based-methods)
     - 📚[Plug-and-play Paradigm](#-plug-and-play-paradigm)
 
 ##  📖 Taxonomy
 ### 📚 Discriminative Paradigm
 
-#### MLP-based Methods
+#### 🌟 MLP-based Methods
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)] [[website](https://latentactionpretraining.github.io/)]
 - **Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation**, CVPR 2025. [[paper](https://arxiv.org/abs/2406.14235)] [[website](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)]
 - **Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.20391)] [[code](https://github.com/siddhanthaldar/Point-Policy)] [[website](https://point-policy.github.io/)]
 
 
-#### CNN-based Methods
+#### 🌟 CNN-based Methods
 ##### CNN
 
 ##### TCN
 
 
-#### RNN-based Methods
+#### 🌟 RNN-based Methods
 ##### RNN
 
 ##### GRU / LSTM
 
 
-#### GNN-based Methods
+#### 🌟 GNN-based Methods
 
 
-#### Transformer-based Methods
+#### 🌟 Transformer-based Methods
 ##### Transformer
 
 ##### Discriminative LLM
 
 
-#### Compound Model-based Methods
+#### 🌟 Compound Model-based Methods
 ##### CNN + RNN
 
 ##### CNN + Transformer
@@ -99,7 +99,7 @@
 
 
 ### 📚 Generative Paradigm
-#### Generative Model-based Methods
+#### 🌟 Generative Model-based Methods
 ##### GAN
 
 ##### VAE
@@ -108,7 +108,7 @@
 
 ##### Diffusion models
 
-#### Generative LLM-based Methods
+#### 🌟 Generative LLM-based Methods
 
 ### 📚 Plug-and-play Paradigm
 
