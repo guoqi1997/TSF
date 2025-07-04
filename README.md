@@ -35,6 +35,7 @@
     - 📊[Discriminative Paradigm](#-discriminative-paradigm)
       - [MLP-based Methods](#mlp-based-methods)
       - [CNN-based Methods](#cnn-based-methods)
+        - [CNN](#cnn)
       - [RNN-based Methods](#rnn-based-methods)
       - [GNN-based Methods](#gnn-based-methods)
       - [Transformer-based Methods](#transformer-based-methods)
