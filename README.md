@@ -32,7 +32,7 @@
 - 🤖[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
-    - 📊[Data Representation](#-data-representation)
+    - 📊[Discriminative Paradigm](#-discriminative-paradigm)
       - [2D Representations](#2d-representations)
       - [3D Representations](#3d-representations)
       - [Heterogeneous Data](#heterogeneous-data)
@@ -48,7 +48,7 @@
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
 
 ##  📖 Taxonomy
-### 📊 Data Representation
+### 📊 Discriminative Paradigm
 
 #### 2D Representations
 
