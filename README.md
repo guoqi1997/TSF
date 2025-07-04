@@ -32,7 +32,7 @@
 - 🌟[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
-    - 📊[Discriminative Paradigm](#-discriminative-paradigm)
+    - 📚[Discriminative Paradigm](#-discriminative-paradigm)
       - [MLP-based Methods](#mlp-based-methods)
       - [CNN-based Methods](#cnn-based-methods)
         - [CNN](#cnn)
@@ -49,17 +49,17 @@
         - [CNN + Transormer](#cnn--transformer)
         - [GNN + RNN](#gnn--rnn)
         - [GNN + Transormer](#gnn--transformer)
-    - 🧠[Generative Paradigm](#-generative-paradigm)
+    - 📚[Generative Paradigm](#-generative-paradigm)
       - [Generative Model-based Methods](#generative-model-based-methods)
         - [GAN](#gan)
         - [VAE](#vae)
         - [Flow-based models](#flow-based-models)
         - [Diffusion models](#diffusion-models)
       - [Generative LLM-based Methods](#generative-llm-based-methods)
-    - 🌊[Plug-and-play Paradigm](#-plug-and-play-paradigm)
+    - 📚[Plug-and-play Paradigm](#-plug-and-play-paradigm)
 
 ##  📖 Taxonomy
-### 📊 Discriminative Paradigm
+### 📚 Discriminative Paradigm
 
 #### MLP-based Methods
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)] [[website](https://latentactionpretraining.github.io/)]
@@ -98,7 +98,7 @@
 ##### GNN + Transformer
 
 
-### 🧠 Generative Paradigm
+### 📚 Generative Paradigm
 #### Generative Model-based Methods
 ##### GAN
 
@@ -110,6 +110,6 @@
 
 #### Generative LLM-based Methods
 
-### 🌊 Plug-and-play Paradigm
+### 📚 Plug-and-play Paradigm
 
 
