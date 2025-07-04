@@ -35,7 +35,7 @@
     - 📚[Discriminative Paradigm](#-discriminative-paradigm)
       - 🌟[MLP-based Methods](#mlp-based-methods)
       - 🌟[CNN-based Methods](#cnn-based-methods)
-        - [CNN](#(1)-cnn)
+        - [(1) CNN](#(1)-cnn)
         - [TCN](#tcn)
       - 🌟[RNN-based Methods](#rnn-based-methods)
         - [RNN](#rnn)
