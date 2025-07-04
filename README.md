@@ -1,4 +1,4 @@
-# 🌟 A Survey of Deep Learning for Time Series Forecasting
+# A Survey of Deep Learning for Time Series Forecasting
 
 <div style="text-align: center;">
   <img src="./timeline.jpg" alt="image info">
@@ -29,7 +29,7 @@
 🚀 For a deeper dive, please check out our survey paper: **A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis, and Future Directions** 
 
 ## 📑 Table of Contents
-- 🌟[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
+- 🌟[A Survey of Deep Learning for Time Series Forecasting](#-a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
     - 📊[Discriminative Paradigm](#-discriminative-paradigm)
