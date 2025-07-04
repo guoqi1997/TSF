@@ -73,22 +73,22 @@
 ##### TCN
 
 
-#### 🌟 RNN-based Methods
+#### 🌟RNN-based Methods
 ##### RNN
 
 ##### GRU / LSTM
 
 
-#### 🌟 GNN-based Methods
+#### 🌟GNN-based Methods
 
 
-#### 🌟 Transformer-based Methods
+#### 🌟Transformer-based Methods
 ##### Transformer
 
 ##### Discriminative LLM
 
 
-#### 🌟 Compound Model-based Methods
+#### 🌟Compound Model-based Methods
 ##### CNN + RNN
 
 ##### CNN + Transformer
@@ -99,7 +99,7 @@
 
 
 ### 📚 Generative Paradigm
-#### 🌟 Generative Model-based Methods
+#### 🌟Generative Model-based Methods
 ##### GAN
 
 ##### VAE
@@ -108,7 +108,7 @@
 
 ##### Diffusion models
 
-#### 🌟 Generative LLM-based Methods
+#### 🌟Generative LLM-based Methods
 
 ### 📚 Plug-and-play Paradigm
 
