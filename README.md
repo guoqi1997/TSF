@@ -39,7 +39,7 @@
         - [TCN](#tcn)
       - [RNN-based Methods](#rnn-based-methods)
         - [RNN](#rnn)
-        - [GRU/LSTM](#gru--lstm)
+        - [GRU / LSTM](#gru--lstm)
       - [GNN-based Methods](#gnn-based-methods)
       - [Transformer-based Methods](#transformer-based-methods)
         - [Transformer](#transformer)
@@ -80,7 +80,7 @@
 #### RNN-based Methods
 ##### RNN
 
-##### GRU/LSTM
+##### GRU / LSTM
 
 
 #### GNN-based Methods
