@@ -45,7 +45,7 @@
         - [Transformer](#transformer)
         - [Discriminative LLM](#discriminative-llm)
       - [Compound Model-based Methods](#compound-model-based-methods)
-        - [CNN+RNN](#cnn+rnn)
+        - [CNN + RNN](#cnn--rnn)
         - [CNN+Transormer](#cnn+transformer)
         - [GNN+RNN](#gnn+rnn)
         - [GNN+Transormer](#gnn+transformer)
@@ -93,7 +93,7 @@
 
 
 #### Compound Model-based Methods
-##### CNN+RNN
+##### CNN + RNN
 
 ##### CNN+Transformer
 
