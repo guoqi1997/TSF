@@ -33,7 +33,7 @@
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
     - 📊[Discriminative Paradigm](#-discriminative-paradigm)
-      - [2D Representations](#2d-representations)
+      - [MLP-based Methods](#mlp-based-methods)
       - [3D Representations](#3d-representations)
       - [Heterogeneous Data](#heterogeneous-data)
     - 🧠[Model Architecture](#-model-architecture)
@@ -50,7 +50,7 @@
 ##  📖 Taxonomy
 ### 📊 Discriminative Paradigm
 
-#### 2D Representations
+#### MLP-based Methods
 
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)] [[website](https://latentactionpretraining.github.io/)]
 - **Diffusion Policy Policy Optimization**, ICLR 2025. [[paper](https://arxiv.org/abs/2409.00588)] [[code](https://github.com/irom-princeton/dppo)] [[website](https://diffusion-ppo.github.io/)]
