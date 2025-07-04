@@ -46,9 +46,9 @@
         - [Discriminative LLM](#discriminative-llm)
       - [Compound Model-based Methods](#compound-model-based-methods)
         - [CNN + RNN](#cnn--rnn)
-        - [CNN+Transormer](#cnn+transformer)
-        - [GNN+RNN](#gnn+rnn)
-        - [GNN+Transormer](#gnn+transformer)
+        - [CNN + Transormer](#cnn--transformer)
+        - [GNN + RNN](#gnn--rnn)
+        - [GNN + Transormer](#gnn--transformer)
     - 🧠[Model Architecture](#-model-architecture)
       - [Large Language Model Based Diffusion Policy](#large-language-model-based-diffusion-policy)
       - [Small Size CNN or Transformer Model Based Diffusion Policy](#small-size-cnn-or-transformer-model-based-diffusion-policy)
@@ -95,11 +95,11 @@
 #### Compound Model-based Methods
 ##### CNN + RNN
 
-##### CNN+Transformer
+##### CNN + Transformer
 
-##### GNN+RNN
+##### GNN + RNN
 
-##### GNN+Transformer
+##### GNN + Transformer
 
 
 ### 🧠 Model Architecture
