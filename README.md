@@ -29,7 +29,7 @@
 🚀 For a deeper dive, please check out our survey paper: **A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis, and Future Directions** 
 
 ## 📑 Table of Contents
-- 🌟[A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis, and Future Directions](#a-survey-of-deep-learning-for-time-series-forecasting:-taxonomy,-analysis,-and-future-directions)
+- 🌟[A Survey of Deep Learning for Time Series Forecasting](#a-survey-of-deep-learning-for-time-series-forecasting)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Taxonomy](#-taxonomy)
     - 📊[Discriminative Paradigm](#-discriminative-paradigm)
