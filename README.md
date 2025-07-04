@@ -1,4 +1,4 @@
-# A Survey of Deep Learning for Time Series Forecasting
+# 🌟 A Survey of Deep Learning for Time Series Forecasting
 
 <div style="text-align: center;">
   <img src="./timeline.jpg" alt="image info">
