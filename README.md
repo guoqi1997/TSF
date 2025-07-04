@@ -47,8 +47,6 @@
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
 
-  - 📜[Citation](#-citation)
-
 ##  📖 Taxonomy
 ### 📊 Data Representation
 
@@ -303,17 +301,3 @@
 - **Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals**, RSS 2024. [[paper](https://arxiv.org/abs/2407.05996)] [[code](https://github.com/intuitive-robots/mdt_policy)] [[website](https://intuitive-robots.github.io/mdt_policy/)]
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
-
-
-## 📜 Citation
-```
- @article{Song_2025,
-title={A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions},
-url={http://dx.doi.org/10.36227/techrxiv.174378343.39356214/v1},
-DOI={10.36227/techrxiv.174378343.39356214/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Song, Mingchen and Deng, Xiang and Zhou, Zhiling and Wei, Jie and Guan, Weili and Nie, Liqiang},
-year={2025},
-month=apr }
-
-```
