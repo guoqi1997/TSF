@@ -12,7 +12,7 @@
 
 🚩 2020: Multi-layer perceptrons ([MLPs](https://psycnet.apa.org/record/1959-09865-001)), due to their simple architecture and ease of implementation, have been widely applied in TSF. A representative example is [N-BEATS](https://arxiv.org/abs/1905.10437), which inspired a series of follow-up variants such as [NBEATSx](https://www.sciencedirect.com/science/article/pii/S0169207022000413) and [NHiTS](https://ojs.aaai.org/index.php/AAAI/article/view/25854).
 
-🚩 2021: Given that time series forecasting can essentially be regarded as a generative task, some generative approaches, such as [TimeGrad](Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting) and [MAF](Multivariate probabilistic time series forecasting via conditioned normalizing flows), model the underlying data distribution to generate future sequences. 
+🚩 2021: Given that time series forecasting can essentially be regarded as a generative task, some generative approaches, such as [TimeGrad](https://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf) and [MAF](https://openreview.net/forum?id=WiGQBFuVRv), model the underlying data distribution to generate future sequences. 
 
 🚩 2022: The Transformer architecture has undergone continuous development in recent years, giving rise to numerous studies, including [FEDformer](https://proceedings.mlr.press/v162/zhou22g/zhou22g.pdf) and [Pyraformer](https://openreview.net/forum?id=0EXmFzUn5I). 
 
