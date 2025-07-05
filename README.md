@@ -110,7 +110,23 @@
 
 #### 🌟Transformer-based Methods
 ##### Transformer
-
+- A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, ICLR 2023. [[paper](https://arxiv.org/abs/2211.14730)] [[code](https://github.com/yuqinie98/patchtst)]
+- Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting, NIPS 2022. [[paper](https://arxiv.org/abs/2205.14415)] [[code](https://github.com/thuml/Nonstationary_Transformers)]
+- Scalable Transformer for High Dimensional Multivariate Time Series Forecasting, CIKM 2024. [[paper](https://arxiv.org/abs/2408.04245)] [[code](https://github.com/xinzzzhou/ScalableTransformer4HighDimensionMTSF)]
+- VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting, AAAI 2025. [[paper](https://arxiv.org/abs/2501.14183)] [[code](https://github.com/kaist-dmlab/VarDrop)]
+- iTransformer: Inverted transformers are effective for time series forecasting, ICLR 2024. [[paper](https://arxiv.org/abs/2310.06625)] [[code](https://github.com/thuml/iTransformer)]
+- Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, ICLR 2024. [[paper](https://openreview.net/forum?id=lJkOCMP2aW)] [[code](https://github.com/decisionintelligence/pathformer)]
+- Informer: Beyond efficient transformer for long sequence time-series forecasting, AAAI 2021. [[paper](https://arxiv.org/abs/2012.07436)] [[code](https://github.com/zhouhaoyi/Informer2020)]
+- Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting, NIPS 2021. [[paper](https://arxiv.org/abs/2106.13008)] [[code](https://github.com/thuml/Autoformer)]
+- Fedformer: Frequency enhanced decomposed transformer for long-term series forecasting, ICML 2022. [[paper](https://arxiv.org/abs/2201.12740)] [[code](https://github.com/MAZiqing/FEDformer)]
+- Adversarial sparse transformer for time series forecasting,	NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf)] [[code](https://github.com/hihihihiwsf/AST)]
+- Preformer: predictive transformer with multi-scale segment-wise correlations for long-term time series forecasting, ICASSP 2023. [[paper](https://arxiv.org/abs/2202.11356)] [[code](https://github.com/ddz16/Preformer)]
+- Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, ICLR 2022. [[paper](https://openreview.net/pdf?id=0EXmFzUn5I)] [[code](https://github.com/ant-research/Pyraformer)]
+- Contiformer: Continuous-time transformer for irregular time series modeling, NIPS 2023. [[paper](https://seqml.github.io/contiformer/)] [[code](https://github.com/microsoft/SeqML/tree/main/ContiFormer)]
+- Fredformer: Frequency debiased transformer for time series forecasting, KDD 2024. [[paper](https://arxiv.org/abs/2406.09009)] [[code](https://github.com/chenzrg/fredformer)]
+- Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis, NIPS 2024. [[paper](https://arxiv.org/abs/2411.04554)] [[code](https://github.com/WuQiangXDU/Peri-midFormer)]
+- Learning to rotate: Quaternion transformer for complicated periodical time series forecasting, KDD 2022. [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)] [[code](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)]
+- Etsformer: Exponential smoothing transformers for time-series forecasting, Arxiv 2022. [[paper](https://arxiv.org/abs/2202.01381)] [[code](https://github.com/salesforce/etsformer)]
 ##### Discriminative LLM
 
 
