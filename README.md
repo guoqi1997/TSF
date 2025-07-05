@@ -90,7 +90,7 @@
 - A multi-horizon quantile recurrent forecaster, NIPSW 2017. [[paper](https://arxiv.org/abs/1711.11053)] [[code](https://github.com/tianchen101/MQRNN)]
 - DeepAR: Probabilistic forecasting with autoregressive recurrent networks, IJoF 2019. [[paper](https://arxiv.org/abs/1704.04110)] [[code](https://github.com/brunoklein99/deepar)]
 - Modeling irregular time series with continuous recurrent units, ICML 2022. [[paper](https://arxiv.org/abs/2111.11344)] [[code](https://github.com/boschresearch/continuous-recurrent-units)]
-- Segrnn: Segment recurrent neural network for long-term time series forecasting, 	Arxiv 2023. [[paper](https://arxiv.org/abs/2308.11200)] [[code](https://github.com/lss-1138/SegRNN)]
+- Segrnn: Segment recurrent neural network for long-term time series forecasting, Arxiv 2023. [[paper](https://arxiv.org/abs/2308.11200)] [[code](https://github.com/lss-1138/SegRNN)]
 ##### GRU / LSTM
 - Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization, KDD 2024. [[paper](https://arxiv.org/abs/2407.01622)] [[code](https://github.com/sheoyon-jhin/CONTIME)]
 - A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting, IJoF 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0169207019301153)]
@@ -98,7 +98,15 @@
 - Unlocking the power of lstm for long term time series forecasting, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33303)] [[code](https://github.com/Eleanorkong/P-sLSTM)]
 
 #### 🌟GNN-based Methods
-
+- Spectral temporal graph neural network for multivariate time-series forecasting, NIPS 2020. [[paper](https://arxiv.org/abs/2103.07719)] [[code](https://github.com/microsoft/StemGNN)]
+- Multivariate time-series forecasting with temporal polynomial graph neural networks, NIPS 2022. [[paper](https://openreview.net/forum?id=pMumil2EJh)] [[code](https://github.com/zyplanet/TPGNN)]
+- FourierGNN: Rethinking multivariate time series forecasting from a pure graph perspective, NIPS 2023. [[paper](https://arxiv.org/abs/2311.06190)] [[code](https://github.com/aikunyi/FourierGNN)]
+- Connecting the dots: Multivariate time series forecasting with graph neural networks, KDD 2020. [[paper](https://arxiv.org/abs/2005.01165)] [[code](https://github.com/nnzhan/MTGNN)]
+- Biased temporal convolution graph network for time series forecasting with missing values, ICLR 2024. [[paper](https://openreview.net/forum?id=O9nZCwdGcG)] [[code](https://github.com/chenxiaodanhit/BiTGraph)]
+- Multi-scale adaptive graph neural network for multivariate time series forecasting, TKDE 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10105527)] [[code](https://github.com/shangzongjiang/MAGNN)]
+- Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting, ICML 2024. [[paper](https://arxiv.org/abs/2305.19183)] [[code](https://github.com/andreacini/higp)]
+- Msgnet: Learning multi-scale inter-series correlations for multivariate time series forecasting, AAAI 2024. [[paper](https://arxiv.org/abs/2401.00423)] [[code](https://github.com/YoZhibo/MSGNet)]
+- TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2501.13041)] [[code](https://github.com/troubadour000/timefilter)]
 
 #### 🌟Transformer-based Methods
 ##### Transformer
