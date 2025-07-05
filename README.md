@@ -8,7 +8,7 @@
 
 🚩 2018: Data in various fields exhibit both spatial and temporal dependencies, and graph neural networks ([GNNs](https://ieeexplore.ieee.org/document/4700287)) have introduced novel perspectives for spatiotemporal modeling, with [STGCN](https://www.ijcai.org/proceedings/2018/0505.pdf) widely adopted as a benchmark. 
 
-🚩 2019: Transformer-based models \cite{transformer}, such as LogTrans~\cite{logtrans} and TFT~\cite{tft}, have gained popularity due to their strength in modeling global dependencies. Concurrently, convolutional neural networks (CNNs) \cite{cnn} (e.g., DeepGLO~\cite{deepglo}, MICN~\cite{micn}) were employed in TSF, leveraging their parallelism, parameter sharing, and local perception capabilities. 
+🚩 2019: [Transformer](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)-based models , such as LogTrans~\cite{logtrans} and TFT~\cite{tft}, have gained popularity due to their strength in modeling global dependencies. Concurrently, convolutional neural networks (CNNs) \cite{cnn} (e.g., DeepGLO~\cite{deepglo}, MICN~\cite{micn}) were employed in TSF, leveraging their parallelism, parameter sharing, and local perception capabilities. 
 
 🚩 2020: Multi-layer perceptrons (MLPs), due to their simple architecture and ease of implementation, have been widely applied in TSF. A representative example is N-BEATS~\cite{n-beats}, which inspired a series of follow-up variants such as NBEATSx~\cite{nbeatsx} and N-HiTS~\cite{nhits}.
 
