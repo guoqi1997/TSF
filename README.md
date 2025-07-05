@@ -80,10 +80,14 @@
 - TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation, ICLR 2025. [[paper](https://openreview.net/forum?id=MZDdTzN6Cy)]
 ##### TCN
 - Moderntcn: A modern pure convolution structure for general time series analysis, ICLR 2024. [[paper](https://openreview.net/forum?id=vpJMJerXHU)] [[code](https://github.com/luodhhh/ModernTCN)]
+- Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting, NIPS 2019. [[paper](https://arxiv.org/abs/1905.03806)] [[code](https://github.com/rajatsen91/deepglo)]
+- Micn: Multi-scale local and global context modeling for long-term series forecasting, ICLR 2023. [[paper](https://openreview.net/forum?id=zt53IDUR1U)] [[code](https://github.com/wanghq21/MICN)]
+- Scinet: Time series modeling and forecasting with sample convolution and interaction, NIPS 2022. [[paper](https://arxiv.org/abs/2106.09305)] [[code](https://github.com/cure-lab/SCINet)]
+- Cross-LKTCN: Modern convolution utilizing cross-variable dependency for multivariate time series forecasting dependency for multivariate time series forecasting, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.02326)]
 
 #### 🌟RNN-based Methods
 ##### RNN
-
+- 
 ##### GRU / LSTM
 
 
