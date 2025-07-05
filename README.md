@@ -68,6 +68,8 @@
 - Are transformers effective for time series forecasting?, AAAI 2023. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26317)] [[code](https://github.com/cure-lab/LTSF-Linear)]
 - Frequency-domain MLPs are more effective learners in time series forecasting, NIPS 2023. [[paper](https://arxiv.org/abs/2311.06184)] [[code](https://github.com/aikunyi/FreTS)]
 - Tsmixer: Lightweight mlp-mixer model for multivariate time series forecasting, KDD 2023. [[paper](https://arxiv.org/abs/2306.09364)]
+- TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting, ICLR 2024. [[paper](https://openreview.net/forum?id=7oLshfEIC2)] [[code](https://github.com/kwuking/TimeMixer)]
+- Hdmixer: Hierarchical dependency with extendable patch for multivariate time series forecasting, AAAI 2024. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29155)] [[code](https://github.com/hqh0728/HDMixer)]
 
 
 #### 🌟CNN-based Methods
