@@ -62,7 +62,7 @@
 ### 📚 Discriminative Paradigm
 
 #### 🌟MLP-based Methods
-- N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, ICLR 2020. [[paper](https://arxiv.org/abs/1905.10437)] [[code]()]
+- N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, ICLR 2020. [[paper](https://arxiv.org/abs/1905.10437)] [[code](https://github.com/philipperemy/n-beats)]
 - 
 
 #### 🌟CNN-based Methods
