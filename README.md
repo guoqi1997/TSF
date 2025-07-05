@@ -70,7 +70,7 @@
 - Tsmixer: Lightweight mlp-mixer model for multivariate time series forecasting, KDD 2023. [[paper](https://arxiv.org/abs/2306.09364)]
 - TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting, ICLR 2024. [[paper](https://openreview.net/forum?id=7oLshfEIC2)] [[code](https://github.com/kwuking/TimeMixer)]
 - Hdmixer: Hierarchical dependency with extendable patch for multivariate time series forecasting, AAAI 2024. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29155)] [[code](https://github.com/hqh0728/HDMixer)]
-
+- Wpmixer: Efficient multi-resolution mixing for long-term time series forecasting, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34156)] [[code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer)]
 
 #### 🌟CNN-based Methods
 ##### CNN
