@@ -74,9 +74,12 @@
 
 #### 🌟CNN-based Methods
 ##### CNN
-
+- TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR 2023. [[paper](https://arxiv.org/abs/2210.02186)] [[code](https://github.com/thuml/TimesNet)]
+- Modeling temporal patterns with dilated convolutions for time-series forecasting, TKDD 2021. [[paper](https://dl.acm.org/doi/abs/10.1145/3453724)]
+- Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis, WWW 2025. [[paper](https://arxiv.org/abs/2403.01493)] [[code](https://github.com/Mingyue-Cheng/ConvTimeNet)]
+- TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation, ICLR 2025. [[paper](https://openreview.net/forum?id=MZDdTzN6Cy)]
 ##### TCN
-
+- Moderntcn: A modern pure convolution structure for general time series analysis, ICLR 2024. [[paper](https://openreview.net/forum?id=vpJMJerXHU)] [[code](https://github.com/luodhhh/ModernTCN)]
 
 #### 🌟RNN-based Methods
 ##### RNN
