@@ -196,6 +196,13 @@
 - Non-stationary Diffusion For Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.04278)] [[code](https://github.com/wwy155/NsDiff)] 
 
 #### 🌟Generative LLM-based Methods
+- Promptcast: A new prompt-based learning paradigm for time series forecasting,  TKDE 2023. [[paper](https://arxiv.org/abs/2210.08964)] [[code](https://github.com/HaoUNSW/PISA)]
+- Instruct-fingpt: Financial sentiment analysis by instruction tuning of general-purpose large language models, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.12659)]
+- Temporal Data Meets LLM--Explainable Financial Time Series Forecasting, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.11025)]
+- The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges, Arxiv 2023. [[paper](https://arxiv.org/abs/2304.05351)]
+- Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning, ICML 2024. [[paper](https://arxiv.org/abs/2402.04852)]
+- Autotimes: Autoregressive time series forecasters via large language models, NIPS 2024. [[paper](https://arxiv.org/abs/2402.02370)] [[code](https://github.com/thuml/AutoTimes)]
+- Large language models are zero-shot time series forecasters, NIPS 2024. [[paper](https://arxiv.org/abs/2310.07820)] [[code](https://github.com/ngruver/llmtime)]
 
 ### 📚 Plug-and-play Paradigm
 
