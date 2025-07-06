@@ -159,6 +159,10 @@
 - T-GCN: A temporal graph convolutional network for traffic prediction, T-ITS 2019. [[paper](https://ieeexplore.ieee.org/document/8809901)] [[code](https://github.com/lehaifeng/T-GCN)]
 - Adaptive graph convolutional recurrent network for traffic forecasting, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf)] [[code](https://github.com/LeiBAI/AGCRN)]
 ##### GNN + Transformer
+- Spatial-temporal transformer networks for traffic flow forecasting, Arxiv 2020. [[paper](https://arxiv.org/pdf/2001.02908)]
+- Forecaster: A graph transformer for forecasting spatial and time-dependent data, ECAI 2020. [[paper](https://ebooks.iospress.nl/volumearticle/55026)]
+- Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting, Arxiv 2024. [[paper](https://arxiv.org/abs/2408.10822)] [[code](https://github.com/jasonz5/STGormer)]
+- STGformer: Efficient Spatiotemporal Graph Transformer for Traffic Forecasting, Arxiv 2024. [[paper](https://arxiv.org/abs/2410.00385)] [[code](https://github.com/Dreamzz5/STGformer)]
 
 
 ### 📚 Generative Paradigm
