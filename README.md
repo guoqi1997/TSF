@@ -204,11 +204,21 @@
 - Autotimes: Autoregressive time series forecasters via large language models, NIPS 2024. [[paper](https://arxiv.org/abs/2402.02370)] [[code](https://github.com/thuml/AutoTimes)]
 - Large language models are zero-shot time series forecasters, NIPS 2024. [[paper](https://arxiv.org/abs/2310.07820)] [[code](https://github.com/ngruver/llmtime)]
 
+
 ### 📚 Plug-and-play Paradigm
-
-
-
-
-
-
-
+- Deep adaptive input normalization for time series forecasting, TNNLS 2019. [[paper](https://arxiv.org/abs/1902.07892)] [[code](https://github.com/passalis/dain)]
+- Reversible instance normalization for accurate time-series forecasting against distribution shift, ICLR 2021. [[paper](https://openreview.net/forum?id=cGDAkQo1C0p)] [[code](https://github.com/ts-kim/RevIN)]
+- GAS-Norm: Score-Driven Adaptive Normalization for Non-Stationary Time Series Forecasting in Deep Learning, CIKM 2024. [[paper](https://arxiv.org/abs/2410.03935)] [[code](https://github.com/edo-urettini/GAS_Norm)]
+- Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks, AISTATS 2024. [[paper](https://arxiv.org/abs/2310.14720)] [[code](https://github.com/marcusGH/edain_paper)]
+- Frequency Adaptive Normalization For Non-stationary Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2409.20371)] [[code](https://github.com/wayne155/FAN)]
+- Shape and time distortion loss for training deep time series forecasting models, NIPS 2019. [[paper](https://arxiv.org/abs/1909.09020)] [[code](https://github.com/vincent-leguen/DILATE)]
+- Loss Shaping Constraints for Long-Term Time Series Forecasting, ICML 2024. [[paper](https://arxiv.org/abs/2402.09373)]
+- RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies, ICLR 2024. [[paper](https://openreview.net/forum?id=ltZ9ianMth)] [[code](https://github.com/haochenglouis/RobustTSF)]
+- Topological attention for time series forecasting, NIPS 2021. [[paper](https://arxiv.org/abs/2107.09031)] [[code](https://github.com/plus-rkwitt/TAN)]
+- Dish-ts: a general paradigm for alleviating distribution shift in time series forecasting, AAAI 2023. [[paper](https://arxiv.org/abs/2302.14829)] [[code](https://github.com/weifantt/Dish-TS)]
+- Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2410.20772)] [[code](https://github.com/djlee1208/bsa_2024)]
+- Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling, ICML 2024. [[paper](https://arxiv.org/abs/2402.12694)]
+- Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators, ICLR 2024. [[paper](https://openreview.net/forum?id=JiTVtCUOpS)] [[code](https://github.com/SJTU-Quant/LIFT)]
+- Channel-aware low-rank adaptation in time series forecasting, CIKM 2024. [[paper](https://arxiv.org/abs/2407.17246)] [[code](https://github.com/tongnie/C-LoRA)]
+- Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective, NIPS 2024. [[paper](https://arxiv.org/abs/2409.18696)] [[code](https://github.com/ForestsKing/GLAFF)]
+- Calibration of time-series forecasting: Detecting and adapting context-driven distribution shift, KDD 2024. [[paper](https://arxiv.org/abs/2310.14838)] [[code](https://github.com/half111/calibration_cds)]
