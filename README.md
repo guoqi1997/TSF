@@ -137,6 +137,11 @@
 - Small but mighty: enhancing time series forecasting with lightweight LLMs, J SUPERCOMPUT 2025. [[paper](https://link.springer.com/article/10.1007/s11227-025-07491-5)] [[code](https://github.com/xiyan1234567/SMETimes)]
 - Calf: Aligning llms for time series forecasting via cross-modal fine-tuning, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34082)] [[code](https://github.com/Hank0626/CALF)]
 - TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment, AAAI 2025. [[paper](https://arxiv.org/abs/2406.01638)] [[code](https://github.com/ChenxiLiu-HNU/TimeCMA)]
+- One fits all: Power general time series analysis by pretrained lm, NIPS 2023. [[paper](https://arxiv.org/abs/2302.11939)] [[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)]
+- Unitime: A language-empowered unified model for cross-domain time series forecasting, WWW 2024. [[paper](https://arxiv.org/abs/2310.09751)] [[code](https://github.com/liuxu77/UniTime)]
+- Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2405.14252)] [[code](https://github.com/CityMindLab/NeurIPS24-Time-FFM/tree/main)]
+- Llm4ts: Two-stage fine-tuning for time-series forecasting with pre-trained llms, ACM TIST 2025. [[paper](https://arxiv.org/abs/2308.08469)] [[code](https://github.com/blacksnail789521/LLM4TS)]
+- Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting, . [[paper](https://arxiv.org/abs/2505.11017)]
 
 #### 🌟Compound Model-based Methods
 ##### CNN + RNN
