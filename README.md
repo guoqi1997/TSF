@@ -128,7 +128,11 @@
 - Learning to rotate: Quaternion transformer for complicated periodical time series forecasting, KDD 2022. [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)] [[code](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)]
 - Etsformer: Exponential smoothing transformers for time-series forecasting, Arxiv 2022. [[paper](https://arxiv.org/abs/2202.01381)] [[code](https://github.com/salesforce/etsformer)]
 ##### Discriminative LLM
-
+- Lag-llama: Towards foundation models for time series forecasting, R0-FoMo 2023. [[paper](https://openreview.net/forum?id=jYluzCLFDM)] [[code](https://github.com/time-series-foundation-models/lag-llama)]
+- Frozen language model helps ecg zero-shot learning, MIDL 2024. [[paper](https://proceedings.mlr.press/v227/li24a.html)]
+- Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting, AAAI 2025. [[paper](https://arxiv.org/abs/2412.12226)]
+- Tempo: Prompt-based generative pre-trained transformer for time series forecasting, ICLR 2024. [[paper](https://arxiv.org/abs/2310.04948)] [[code](https://github.com/dc-research/tempo)]
+- S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting, ICML 2024. [[paper](https://arxiv.org/abs/2403.05798)] [[code](https://github.com/panzijie825/S2IP-LLM)]
 
 #### 🌟Compound Model-based Methods
 ##### CNN + RNN
