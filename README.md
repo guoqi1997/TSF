@@ -133,6 +133,10 @@
 - Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting, AAAI 2025. [[paper](https://arxiv.org/abs/2412.12226)]
 - Tempo: Prompt-based generative pre-trained transformer for time series forecasting, ICLR 2024. [[paper](https://arxiv.org/abs/2310.04948)] [[code](https://github.com/dc-research/tempo)]
 - S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting, ICML 2024. [[paper](https://arxiv.org/abs/2403.05798)] [[code](https://github.com/panzijie825/S2IP-LLM)]
+- TEST: Text prototype aligned embedding to activate LLM's ability for time series, ICLR 2024. [[paper](https://arxiv.org/abs/2308.08241)] [[code](https://github.com/SCXsunchenxi/TEST)]
+- Small but mighty: enhancing time series forecasting with lightweight LLMs, J SUPERCOMPUT 2025. [[paper](https://link.springer.com/article/10.1007/s11227-025-07491-5)] [[code](https://github.com/xiyan1234567/SMETimes)]
+- Calf: Aligning llms for time series forecasting via cross-modal fine-tuning, AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34082)] [[code](https://github.com/Hank0626/CALF)]
+- TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment, AAAI 2025. [[paper](https://arxiv.org/abs/2406.01638)] [[code](https://github.com/ChenxiLiu-HNU/TimeCMA)]
 
 #### 🌟Compound Model-based Methods
 ##### CNN + RNN
