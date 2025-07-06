@@ -141,15 +141,23 @@
 - Unitime: A language-empowered unified model for cross-domain time series forecasting, WWW 2024. [[paper](https://arxiv.org/abs/2310.09751)] [[code](https://github.com/liuxu77/UniTime)]
 - Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2405.14252)] [[code](https://github.com/CityMindLab/NeurIPS24-Time-FFM/tree/main)]
 - Llm4ts: Two-stage fine-tuning for time-series forecasting with pre-trained llms, ACM TIST 2025. [[paper](https://arxiv.org/abs/2308.08469)] [[code](https://github.com/blacksnail789521/LLM4TS)]
-- Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting, . [[paper](https://arxiv.org/abs/2505.11017)]
+- Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting, Arxiv 2025. [[paper](https://arxiv.org/abs/2505.11017)]
 
 #### 🌟Compound Model-based Methods
 ##### CNN + RNN
-
+- Modeling long-and short-term temporal patterns with deep neural networks, SIGIR 2018. [[paper](https://arxiv.org/abs/1703.07015)] [[code](https://github.com/laiguokun/LSTNet)]
+- Towards better forecasting by fusing near and distant future visions, AAAI 2020. [[paper](https://arxiv.org/abs/1912.05122)] [[code](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)]
+- Deep air quality forecasting using hybrid deep learning framework, TKDE 2019. [[paper](https://ieeexplore.ieee.org/document/8907358)]
+- Hybrid deep learning CNN-LSTM model for forecasting direct normal irradiance: a study on solar potential in Ghardaia, Algeria, Scientific Reports 2025. [[paper](https://www.nature.com/articles/s41598-025-94239-z)]
+- Long short term memory--convolutional neural network based deep hybrid approach for solar irradiance forecasting, Applied Energy 2021. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005158)]
 ##### CNN + Transformer
-
+- LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics, Arxiv 2025. [[paper](https://arxiv.org/abs/2503.09656)]
+- Periodicity decoupling framework for long-term series forecasting, ICLR 2024. [[paper](https://openreview.net/forum?id=dp27P5HBBt)] [[code](https://github.com/Hank0626/PDF)]
+- Bridging Short-and Long-Term Dependencies: A CNN-Transformer Hybrid for Financial Time Series Forecasting, Arxiv 2025. [[paper](https://arxiv.org/abs/2504.19309)]
 ##### GNN + RNN
-
+- A hybrid model for spatiotemporal forecasting of PM2. 5 based on graph convolutional neural network and long short-term memory, SCI TOTAL ENVIRON 2019. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821)]
+- T-GCN: A temporal graph convolutional network for traffic prediction, T-ITS 2019. [[paper](https://ieeexplore.ieee.org/document/8809901)] [[code](https://github.com/lehaifeng/T-GCN)]
+- Adaptive graph convolutional recurrent network for traffic forecasting, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf)] [[code](https://github.com/LeiBAI/AGCRN)]
 ##### GNN + Transformer
 
 
