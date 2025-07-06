@@ -168,15 +168,40 @@
 ### 📚 Generative Paradigm
 #### 🌟Generative Model-based Methods
 ##### GAN
-
+- Stock market prediction based on generative adversarial network, Procedia Comput. Sci 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S1877050919302789)]
+- Time-series Generative Adversarial Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html?ref=https://githubhelp.com)]
+- If you like it, gan it—probabilistic multivariate times series forecast with gan, Engineering proceedings 2021. [[paper](https://www.mdpi.com/2673-4591/5/1/40)]
+- T-cgan: Conditional generative adversarial network for data augmentation in noisy time series with irregular sampling, Arxiv 2018. [[paper](https://arxiv.org/abs/1811.08295)]
+- GT-GAN: General purpose time series synthesis with generative adversarial networks, NIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f03ce573aa8bce26f77b76f1cb9ee979-Abstract-Conference.html)]
 ##### VAE
-
+- Hybrid variational autoencoder for time series forecasting, KBS 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008298)]
+- Distributional drift adaptation with temporal conditional variational autoencoder for multivariate time series forecasting, TNNLS 2024. [[paper](https://ieeexplore.ieee.org/document/10509830)]
+- Time Series Forecasting Based on Structured Decomposition and Variational Autoencoder, IJCNN 2024. [[paper](https://ieeexplore.ieee.org/document/10650587)]
+- K2VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.23017)] [[code](https://github.com/decisionintelligence/k2vae)]
 ##### Flow-based models
-
+- Multi-scale attention flow for probabilistic time series forecasting, TKDE 2023. [[paper](https://arxiv.org/abs/2205.07493)]
+- End-to-end modeling of hierarchical time series using autoregressive transformer and conditional normalizing flow-based reconciliation, ICDMW 2022. [[paper](https://www.computer.org/csdl/proceedings-article/icdmw/2022/460900b087/1KBr6gWVaVO)]
+- Multivariate probabilistic time series forecasting via conditioned normalizing flows, ICLR 2021. [[paper](https://openreview.net/forum?id=WiGQBFuVRv)]
 ##### Diffusion models
+- Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting, ICML 2021. [[paper](https://arxiv.org/abs/2101.12072)] [[code](https://github.com/zalandoresearch/pytorch-ts)]
+- Non-autoregressive conditional diffusion models for time series prediction, ICML 2023. [[paper](https://arxiv.org/abs/2306.05043)]
+- Retrieval-Augmented Diffusion Models for Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2410.18712)] [[code](https://arxiv.org/abs/2410.18712)]
+- Latent diffusion transformer for probabilistic time series forecasting, AAAI 2024. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29085)]
+- Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, ICLR 2024. [[paper](https://iclr.cc/virtual/2024/poster/17726)]
+- Predict, refine, synthesize: Self-guiding diffusion models for probabilistic time series forecasting, NIPS 2023. [[paper](https://arxiv.org/abs/2307.11494)] [[code](https://github.com/amazon-science/unconditional-time-series-diffusion)]
+- MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process, ICLR 2024. [[paper](https://openreview.net/forum?id=CZiY6OLktd)] [[code](https://github.com/Hundredl/MG-TSD)]
+- Multi-Resolution Diffusion Models for Time Series Forecasting, ICLR 2024. [[paper](https://openreview.net/forum?id=mmjnr0G8ZY)]
+- ANT: Adaptive Noise Schedule for Time Series Diffusion Models, NIPS 2024. [[paper](https://arxiv.org/abs/2410.14488)] [[code](https://github.com/seunghan96/ANT)]
+- Dynamical diffusion: Learning temporal dynamics with diffusion models, ICLR 2025. [[paper](https://arxiv.org/abs/2503.00951)] [[code](https://github.com/thuml/dynamical-diffusion)]
+- Non-stationary Diffusion For Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.04278)] [[code](https://github.com/wwy155/NsDiff)] 
 
 #### 🌟Generative LLM-based Methods
 
 ### 📚 Plug-and-play Paradigm
+
+
+
+
+
 
 
