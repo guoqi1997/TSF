@@ -1,7 +1,7 @@
 # A Survey of Deep Learning for Time Series Forecasting
 
 <div style="text-align: center;">
-  <img src="./timeline.jpg" alt="image info">
+  <img src="./timeline.png" alt="image info">
 </div>
 
 🚩 2017: Recurrent neural networks ([RNNs](https://www.sciencedirect.com/science/article/abs/pii/036402139090002E)), such as [DA-RNN](https://www.ijcai.org/proceedings/2017/0366.pdf) and [MQRNN](https://arxiv.org/pdf/1711.11053), emerged as the dominant approach, marking the beginning of rapid advancement of deep learning in TSF.
