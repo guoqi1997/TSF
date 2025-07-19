@@ -50,12 +50,11 @@
         - [GNN + RNN](#gnn--rnn)
         - [GNN + Transormer](#gnn--transformer)
     - 📚[Generative Paradigm](#-generative-paradigm)
-      - 🌟[Generative Model-based Methods](#generative-model-based-methods)
-        - [GAN](#gan)
-        - [VAE](#vae)
-        - [Flow-based models](#flow-based-models)
-        - [Diffusion models](#diffusion-models)
-      - 🌟[Generative LLM-based Methods](#generative-llm-based-methods)
+      - [GAN](#gan)
+      - [VAE](#vae)
+      - [Flow-based models](#flow-based-models)
+      - [Diffusion models](#diffusion-models)
+      - [Generative LLMs](#generative-llms)
     - 📚[Plug-and-play Paradigm](#-plug-and-play-paradigm)
 
 ##  📖 Taxonomy
@@ -166,23 +165,22 @@
 
 
 ### 📚 Generative Paradigm
-#### 🌟Generative Model-based Methods
-##### GAN
+#### GAN
 - Stock market prediction based on generative adversarial network, Procedia Comput. Sci 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S1877050919302789)]
 - Time-series Generative Adversarial Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html?ref=https://githubhelp.com)]
 - If you like it, gan it—probabilistic multivariate times series forecast with gan, Engineering proceedings 2021. [[paper](https://www.mdpi.com/2673-4591/5/1/40)]
 - T-cgan: Conditional generative adversarial network for data augmentation in noisy time series with irregular sampling, Arxiv 2018. [[paper](https://arxiv.org/abs/1811.08295)]
 - GT-GAN: General purpose time series synthesis with generative adversarial networks, NIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f03ce573aa8bce26f77b76f1cb9ee979-Abstract-Conference.html)]
-##### VAE
+#### VAE
 - Hybrid variational autoencoder for time series forecasting, KBS 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705123008298)]
 - Distributional drift adaptation with temporal conditional variational autoencoder for multivariate time series forecasting, TNNLS 2024. [[paper](https://ieeexplore.ieee.org/document/10509830)]
 - Time Series Forecasting Based on Structured Decomposition and Variational Autoencoder, IJCNN 2024. [[paper](https://ieeexplore.ieee.org/document/10650587)]
 - K2VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.23017)] [[code](https://github.com/decisionintelligence/k2vae)]
-##### Flow-based models
+#### Flow-based models
 - Multi-scale attention flow for probabilistic time series forecasting, TKDE 2023. [[paper](https://arxiv.org/abs/2205.07493)]
 - End-to-end modeling of hierarchical time series using autoregressive transformer and conditional normalizing flow-based reconciliation, ICDMW 2022. [[paper](https://www.computer.org/csdl/proceedings-article/icdmw/2022/460900b087/1KBr6gWVaVO)]
 - Multivariate probabilistic time series forecasting via conditioned normalizing flows, ICLR 2021. [[paper](https://openreview.net/forum?id=WiGQBFuVRv)]
-##### Diffusion models
+#### Diffusion models
 - Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting, ICML 2021. [[paper](https://arxiv.org/abs/2101.12072)] [[code](https://github.com/zalandoresearch/pytorch-ts)]
 - Non-autoregressive conditional diffusion models for time series prediction, ICML 2023. [[paper](https://arxiv.org/abs/2306.05043)]
 - Retrieval-Augmented Diffusion Models for Time Series Forecasting, NIPS 2024. [[paper](https://arxiv.org/abs/2410.18712)] [[code](https://arxiv.org/abs/2410.18712)]
@@ -194,8 +192,7 @@
 - ANT: Adaptive Noise Schedule for Time Series Diffusion Models, NIPS 2024. [[paper](https://arxiv.org/abs/2410.14488)] [[code](https://github.com/seunghan96/ANT)]
 - Dynamical diffusion: Learning temporal dynamics with diffusion models, ICLR 2025. [[paper](https://arxiv.org/abs/2503.00951)] [[code](https://github.com/thuml/dynamical-diffusion)]
 - Non-stationary Diffusion For Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.04278)] [[code](https://github.com/wwy155/NsDiff)] 
-
-#### 🌟Generative LLM-based Methods
+#### Generative LLM-based Methods
 - Promptcast: A new prompt-based learning paradigm for time series forecasting,  TKDE 2023. [[paper](https://arxiv.org/abs/2210.08964)] [[code](https://github.com/HaoUNSW/PISA)]
 - Instruct-fingpt: Financial sentiment analysis by instruction tuning of general-purpose large language models, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.12659)]
 - Temporal Data Meets LLM--Explainable Financial Time Series Forecasting, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.11025)]
