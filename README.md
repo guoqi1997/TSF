@@ -8,7 +8,7 @@
 
 🚩 2018: Data in various fields exhibit both spatial and temporal dependencies, and graph neural networks ([GNNs](https://ieeexplore.ieee.org/document/4700287)) have introduced novel perspectives for spatiotemporal modeling, with [STGCN](https://www.ijcai.org/proceedings/2018/0505.pdf) widely adopted as a benchmark. 
 
-🚩 2019: Convolutional neural networks ([CNNs](https://aclanthology.org/D14-1181/)) (e.g., [DeepGLO](https://proceedings.neurips.cc/paper_files/paper/2019/file/3a0844cee4fcf57de0c71e9ad3035478-Paper.pdf), [MICN](https://openreview.net/forum?id=zt53IDUR1U)) were employed in TSF, leveraging their parallelism, parameter sharing, and local perception capabilities. Concurrently, [Transformer](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)-based models , such as [LogTrans](https://proceedings.neurips.cc/paper_files/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf) and [TFT](https://www.sciencedirect.com/science/article/pii/S0169207021000637), have gained popularity due to their strength in modeling global dependencies.
+🚩 2019: Convolutional neural networks ([CNNs](https://aclanthology.org/D14-1181/)) (e.g., [DeepGLO](https://proceedings.neurips.cc/paper_files/paper/2019/file/3a0844cee4fcf57de0c71e9ad3035478-Paper.pdf), [MICN](https://openreview.net/forum?id=zt53IDUR1U)) were employed in TSF, leveraging their parallelism, parameter sharing, and local perception capabilities. Concurrently, [Transformer](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)-based models, such as [LogTrans](https://proceedings.neurips.cc/paper_files/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf) and [TFT](https://www.sciencedirect.com/science/article/pii/S0169207021000637), have gained popularity due to their strength in modeling global dependencies.
 
 🚩 2020: Multi-layer perceptrons ([MLPs](https://psycnet.apa.org/record/1959-09865-001)), due to their simple architecture and ease of implementation, have been widely applied in TSF. A representative example is [N-BEATS](https://arxiv.org/abs/1905.10437), which inspired a series of follow-up variants such as [NBEATSx](https://www.sciencedirect.com/science/article/pii/S0169207022000413) and [NHiTS](https://ojs.aaai.org/index.php/AAAI/article/view/25854).
 
@@ -21,7 +21,7 @@
 🚩 2024: [iTransformer](https://openreview.net/forum?id=JePfAI8fah) demonstrated the effectiveness of the Transformer architecture through structural optimization, providing a strong rebuttal to DLinear's claims. Furthermore, the rapid proliferation of methods based on large language models (LLMs), such as [Time-LLM](https://openreview.net/forum?id=Unb5CVPtae), provides further evidence for the feasibility of Transformers in TSF.
 
 <div style="text-align: center;">
-  <img src="./taxonomy.jpg" alt="taxonomy">
+  <img src="./taxonomy.png" alt="taxonomy">
 </div>
 
 📍 We provide a systematic review of deep learning-based TSF methods, summarizing recent advancements.  Specifically, we propose **a novel taxonomy based on core modeling paradigms**, which categorizes existing methods into three paradigms: **discriminative, generative, and plug-and-play**. Additionally, we summarize commonly used datasets and evaluation metrics, and discuss current challenges and future research directions in this field.
