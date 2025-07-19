@@ -192,7 +192,7 @@
 - ANT: Adaptive Noise Schedule for Time Series Diffusion Models, NIPS 2024. [[paper](https://arxiv.org/abs/2410.14488)] [[code](https://github.com/seunghan96/ANT)]
 - Dynamical diffusion: Learning temporal dynamics with diffusion models, ICLR 2025. [[paper](https://arxiv.org/abs/2503.00951)] [[code](https://github.com/thuml/dynamical-diffusion)]
 - Non-stationary Diffusion For Probabilistic Time Series Forecasting, ICML 2025. [[paper](https://arxiv.org/abs/2505.04278)] [[code](https://github.com/wwy155/NsDiff)] 
-#### Generative LLM-based Methods
+#### Generative LLMs
 - Promptcast: A new prompt-based learning paradigm for time series forecasting,  TKDE 2023. [[paper](https://arxiv.org/abs/2210.08964)] [[code](https://github.com/HaoUNSW/PISA)]
 - Instruct-fingpt: Financial sentiment analysis by instruction tuning of general-purpose large language models, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.12659)]
 - Temporal Data Meets LLM--Explainable Financial Time Series Forecasting, Arxiv 2023. [[paper](https://arxiv.org/abs/2306.11025)]
